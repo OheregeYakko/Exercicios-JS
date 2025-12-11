@@ -5,4 +5,3 @@ var numero = 1
 }
 console.log('outside =', numero)
 
-console.log()
