@@ -11,4 +11,3 @@ const prod2 = {
 };
 
 console.log(prod2);
-console.log("Erick passou por aqui");
