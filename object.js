@@ -13,4 +13,3 @@ const prod2 = {
 console.log(prod2);
 
 console.log("blabla")
-console.log("math.random:", Math.random());
